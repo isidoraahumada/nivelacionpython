@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 13 19:29:50 2019
-
 @author: Isi
 """
 
