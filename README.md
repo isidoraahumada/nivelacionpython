@@ -1,3 +1,3 @@
 # nivelacionpython
 
-En este repositorio se encontraran algunos ejemplos diarios de los videos vistos para la nivelacion de python del curso.
+Luego de ver un video tutorial cada dia, en este repositorio se presentan algunos ejemplos de codigos.  
